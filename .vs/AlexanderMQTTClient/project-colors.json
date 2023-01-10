@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0a91e27-ee45-4dad-92db-af3bf53e98ad": {
+      "ProjectGuid": "a0a91e27-ee45-4dad-92db-af3bf53e98ad",
+      "DisplayName": "AlexanderMQTTClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
